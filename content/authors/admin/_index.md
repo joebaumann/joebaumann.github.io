@@ -183,9 +183,10 @@ awards:
 
 <!-- ## About Me -->
 
-I am a postdoctoral researcher at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University, where I work with [Dirk Hovy](https://dirkhovy.com/). I completed my PhD in the [Social Computing Group](https://www.ifi.uzh.ch/en/scg.html) at the University of Zurich, supervised by [Anikó Hannák](https://www.ifi.uzh.ch/en/scg/people/hannak.html).
+I am a postdoctoral researcher at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University, where I work with [Dirk Hovy](https://dirkhovy.com/). Starting 2026, I will join the [Stanford NLP Group](https://nlp.stanford.edu/) as a postdoc, working with [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/).
+
+I obtained my PhD in Computer Science at the University of Zurich, where I was advised by [Anikó Hannák](https://www.ifi.uzh.ch/en/scg/people/hannak.html).
+I spent the summer of 2022 as a Data Science for Social Good Fellow at Carnegie Mellon University, advised by [Rayid Ghani](http://www.rayidghani.com/) and [Kit Rodolfa](https://law.stanford.edu/kit-rodolfa/). During my PhD (2023-2024), I also interned at the Max Planck Institute for Intelligent Systems in Tübingen, hosted by [Celestine Mendler-Dünner](https://celestine.ai/) and [Moritz Hardt](https://mrtz.org/). I was also fortunate to collaborate extensively with [Christoph Heitz](https://www.zhaw.ch/en/about-us/person/heit/) throughout my doctoral studies.
 
 My research spans machine learning, natural language processing, and computational social science, always with an eye toward understanding and improving the real-world impact of these technologies on society.
 I am broadly interested in the societal impact of AI. During my PhD, I worked extensively on algorithmic fairness and algorithmic collective action as mechanisms to contest power imbalances in AI systems. I am also deeply interested in exploring both the promises and risks of using large language models for social science research methods.
-
-During my PhD, I was a Data Science for Social Good Fellow at Carnegie Mellon University, advised by [Rayid Ghani](http://www.rayidghani.com/) and [Kit Rodolfa](https://law.stanford.edu/kit-rodolfa/) (2022), and interned at the Max Planck Institute for Intelligent Systems in Tübingen, hosted by [Celestine Mendler-Dünner](https://celestine.ai/) and [Moritz Hardt](https://mrtz.org/) (2023-2024). I was also fortunate to collaborate extensively with [Christoph Heitz](https://www.zhaw.ch/en/about-us/person/heit/) throughout my doctoral studies.
