@@ -187,7 +187,7 @@ awards:
 
 <!-- ## About Me -->
 
-I am a postdoc in the [Stanford NLP Group](https://nlp.stanford.edu/), advised by [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/).
+I am a postdoc in the [Stanford NLP Group](https://nlp.stanford.edu/), advised by [Diyi Yang](https://cs.stanford.edu/~diyiy/) ([SALT](https://saltlab.stanford.edu/) Lab) and [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/) ([STAIR](https://stairlab.stanford.edu/) Lab).
 Previously, I was a postdoc in the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University, where I worked with [Dirk Hovy](https://dirkhovy.com/).
 
 I received my PhD in Computer Science from the University of Zurich, where I was advised by [Anikó Hannák](https://www.ifi.uzh.ch/en/scg/people/hannak.html).
