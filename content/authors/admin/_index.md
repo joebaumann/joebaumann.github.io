@@ -24,8 +24,8 @@ role: Postdoc
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: MilaNLP
-    url: https://milanlproc.github.io/
+  - name: Stanford NLP Group
+    url: https://nlp.stanford.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,6 +52,10 @@ interests:
   - Algorithmic Fairness
 
 education:
+  - area: Postdoc
+    institution: MilaNLP Lab
+    date_start: 2025
+    date_end: 2025
   - area: PhD Computer Science
     institution: University of Zurich
     date_start: 2021
@@ -183,9 +187,10 @@ awards:
 
 <!-- ## About Me -->
 
-I am a postdoctoral researcher at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University, where I work with [Dirk Hovy](https://dirkhovy.com/). Starting 2026, I will join the [Stanford NLP Group](https://nlp.stanford.edu/) as a postdoc, working with [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/).
+I am a postdoc in the [Stanford NLP Group](https://nlp.stanford.edu/), advised by [Diyi Yang](https://cs.stanford.edu/~diyiy/) and [Sanmi Koyejo](https://cs.stanford.edu/~sanmi/).
+Previously, I was a postdoc in the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University, where I worked with [Dirk Hovy](https://dirkhovy.com/).
 
-I obtained my PhD in Computer Science at the University of Zurich, where I was advised by [Anikó Hannák](https://www.ifi.uzh.ch/en/scg/people/hannak.html).
+I received my PhD in Computer Science from the University of Zurich, where I was advised by [Anikó Hannák](https://www.ifi.uzh.ch/en/scg/people/hannak.html).
 I spent the summer of 2022 as a Data Science for Social Good Fellow at Carnegie Mellon University, advised by [Rayid Ghani](http://www.rayidghani.com/) and [Kit Rodolfa](https://law.stanford.edu/kit-rodolfa/). During my PhD (2023-2024), I also interned at the Max Planck Institute for Intelligent Systems in Tübingen, hosted by [Celestine Mendler-Dünner](https://celestine.ai/) and [Moritz Hardt](https://mrtz.org/). I was also fortunate to collaborate extensively with [Christoph Heitz](https://www.zhaw.ch/en/about-us/person/heit/) throughout my doctoral studies.
 
 My research spans machine learning, natural language processing, and computational social science, always with an eye toward understanding and improving the real-world impact of these technologies on society.
