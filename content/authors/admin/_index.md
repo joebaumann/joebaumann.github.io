@@ -52,8 +52,11 @@ interests:
   - Algorithmic Fairness
 
 education:
-  - area: Postdoc
-    institution: MilaNLP Lab
+  - area: Postdoc @ Stanford NLP Group
+    institution: Stanford University
+    date_start: 2026
+  - area: Postdoc @ MilaNLP Lab
+    institution: Bocconi University
     date_start: 2025
     date_end: 2025
   - area: PhD Computer Science
