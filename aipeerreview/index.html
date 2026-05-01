@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stop Automating Peer Review Without Rigorous Evaluation</title>
+  <meta name="description" content="A position paper arguing that today's AI systems should not be used to produce paper reviews. ICML 2026 (Spotlight).">
+  <meta name="author" content="Joachim Baumann, Jiaxin Pei, Sanmi Koyejo, Dirk Hovy">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Stop Automating Peer Review Without Rigorous Evaluation">
+  <meta property="og:description" content="A position paper arguing that today's AI systems should not be used to produce paper reviews. ICML 2026 (Spotlight).">
+  <meta property="og:url" content="https://joe-baumann.com/aipeerreview">
+  <meta property="og:site_name" content="Joachim Baumann">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Stop Automating Peer Review Without Rigorous Evaluation">
+  <meta name="twitter:description" content="A position paper arguing that today's AI systems should not be used to produce paper reviews. ICML 2026 (Spotlight).">
+
+  <!-- Scholarly metadata -->
+  <meta name="citation_title" content="Stop Automating Peer Review Without Rigorous Evaluation">
+  <meta name="citation_author" content="Baumann, Joachim">
+  <meta name="citation_author" content="Pei, Jiaxin">
+  <meta name="citation_author" content="Koyejo, Sanmi">
+  <meta name="citation_author" content="Hovy, Dirk">
+  <meta name="citation_publication_date" content="2026">
+  <meta name="citation_conference_title" content="International Conference on Machine Learning (ICML)">
+  <meta name="citation_pdf_url" content="https://joe-baumann.com/aipeerreview.pdf">
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      max-width: 760px;
+      margin: 64px auto;
+      padding: 0 28px;
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 18px;
+      line-height: 1.7;
+      color: #1a1a1a;
+      background: #fafaf8;
+    }
+    a { color: #2a5db0; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    h1 { font-size: 28px; line-height: 1.3; margin-bottom: 8px; }
+    .venue { color: #666; font-style: italic; margin-bottom: 4px; }
+    .authors { margin-bottom: 24px; }
+    .actions { margin: 24px 0; }
+    .actions a {
+      display: inline-block;
+      padding: 8px 16px;
+      border: 1px solid #2a5db0;
+      border-radius: 4px;
+      margin-right: 8px;
+    }
+    h2 { font-size: 20px; margin-top: 32px; }
+    .actions button {
+      font: inherit;
+      padding: 8px 16px;
+      border: 1px solid #2a5db0;
+      border-radius: 4px;
+      background: transparent;
+      color: #2a5db0;
+      cursor: pointer;
+      margin-right: 8px;
+    }
+    .actions button:hover { background: #2a5db0; color: #fff; }
+    pre.bibtex {
+      display: none;
+      background: #f0efe9;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 16px;
+      font-size: 14px;
+      line-height: 1.5;
+      overflow-x: auto;
+      white-space: pre;
+      font-family: Menlo, Consolas, monospace;
+    }
+    pre.bibtex.open { display: block; }
+  </style>
+</head>
+<body>
+  <p><a href="/">&larr; Joachim Baumann</a></p>
+
+  <h1>Stop Automating Peer Review Without Rigorous Evaluation</h1>
+  <p class="venue">ICML 2026 (Spotlight)</p>
+  <p class="authors">Joachim Baumann, Jiaxin Pei, Sanmi Koyejo, Dirk Hovy</p>
+
+  <div class="actions">
+    <a href="/aipeerreview.pdf">Read the PDF</a>
+    <a href="https://openreview.net/forum?id=cJhlquXIuS">OpenReview</a>
+    <button type="button" onclick="document.getElementById('bibtex').classList.toggle('open')">Cite</button>
+  </div>
+
+  <pre class="bibtex" id="bibtex">@inproceedings{baumann2026stop,
+  title     = {Stop Automating Peer Review Without Rigorous Evaluation},
+  author    = {Baumann, Joachim and Pei, Jiaxin and Koyejo, Sanmi and Hovy, Dirk},
+  booktitle = {Forty-third International Conference on Machine Learning},
+  year      = {2026},
+  note      = {Spotlight}
+}</pre>
+
+  <h2>Abstract</h2>
+  <p>Large language models offer a tempting solution to address the peer review crisis. This position paper argues that <strong>today's AI systems should not be used to produce paper reviews</strong>. We ground this position in an empirical comparison of human- versus AI-generated ICLR 2026 reviews and an evaluation of the effect of automated paper rewriting on different AI reviewers. We identify two critical issues: 1) AI reviewers exhibit a <em>hivemind effect</em> of excessive agreement within and across papers that reduces perspective diversity. 2) AI review scores are trivially gameable through <em>paper laundering</em>: prompting an LLM to rewrite a paper could significantly increase the scores from AI reviewers, demonstrating that LLM reviewers are easy to game through stylistic changes rather than scientific results. However, non-gameability and review diversity are <em>necessary but not sufficient</em> conditions for automation. We argue that <strong>addressing the peer review crisis requires a science of peer review automation</strong>-not general-purpose LLMs deployed without rigorous evaluation.</p>
+</body>
+</html>
